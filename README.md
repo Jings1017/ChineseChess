@@ -1,0 +1,2 @@
+# ChineseChess
+using Qt
